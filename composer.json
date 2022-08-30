@@ -1,4 +1,6 @@
 {
+    "name": "amole-php",
+    "description": "Amole discription",
     "require": {
         "guzzlehttp/guzzle": "^7.5"
     }
