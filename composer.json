@@ -1,5 +1,5 @@
 {
-    "name": "amole-php",
+    "name": "eba/amole-php",
     "description": "Amole discription",
     "require": {
         "guzzlehttp/guzzle": "^7.5"
