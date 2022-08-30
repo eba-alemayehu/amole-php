@@ -1,6 +1,15 @@
 {
     "name": "eba/amole-php",
-    "description": "Amole discription",
+    "description": "Amole description",
+    "license": "MIT",
+    "type": "library",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "eba-alemayehu",
+            "email": "ebaalemayhu3@gmail.com"
+        }
+    ],
     "require": {
         "guzzlehttp/guzzle": "^7.5"
     }
